@@ -1,4 +1,18 @@
+--- ADDITIONS ---
+
 - Add New drone images
 - Add Railgun, AP gauss, gauss drone, rail drone and machinegun drone sector-specific rarities
 - Add Machinegun array code
 - Add about a billion more events
+
+
+--- FIXES ---
+
+- Update WEAPONS_RANGED list, include railguns (autoBlueprints.xml.append)
+
+
+--- FOR LATER ---
+
+- Full CE compatability patch
+  - CE sector-specific rarities
+  - CE ranged weapon events
