@@ -1,0 +1,335 @@
+<mod:findName type="sectorDescription" name="STANDARD_SPACE">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="1"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LIGHT_1" rarity="3"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="1"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="1"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="3"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_2" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="5"/>
+
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="3"/>
+	</mod:findLike>
+</mod:findName>
+<mod:findName type="sectorDescription" name="CIVILIAN_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="1"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LIGHT_1" rarity="3"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="1"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="1"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="3"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_2" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="5"/>
+
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="3"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="PIRATE_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="1"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LIGHT_1" rarity="3"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="1"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="1"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="3"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_2" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="5"/>
+
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="3"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="CRYSTAL_HOME">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LIGHT_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_2" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_HEAVY_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_HEAVY_2" rarity="0"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="0"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="0"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_3" rarity="0"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="0"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="0"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="0"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="0"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_2" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_2" rarity="0"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="0"/>
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="0"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="0"/>
+		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="0"/>
+
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="0"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="ENGI_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="3"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="3"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+<mod:findName type="sectorDescription" name="ENGI_HOME">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="3"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="3"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="REBEL_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+<mod:findName type="sectorDescription" name="REBEL_SECTOR_MINIBOSS">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="ROCK_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+<mod:findName type="sectorDescription" name="ROCK_HOME">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="ZOLTAN_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_2" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_HEAVY_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_HEAVY_2" rarity="0"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+<mod:findName type="sectorDescription" name="ZOLTAN_HOME">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_AUTOCANNON_1" rarity="2"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_ULTRA_2" rarity="4"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_2" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_HEAVY_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINEGUN_HEAVY_2" rarity="0"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_4_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_3_DRONE" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_2_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1A" rarity="2"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
+		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+
+<mod:findName type="sectorDescription" name="SLUG_SECTOR">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+	</mod:findLike>
+</mod:findName>
+<mod:findName type="sectorDescription" name="SLUG_HOME">
+	<mod:findLike type="rarityList">
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_1" rarity="4"/>
+		<mod-append:blueprint name="EB_GAUSS_RIFLE_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
+		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+	</mod:findLike>
+</mod:findName>  

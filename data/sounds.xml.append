@@ -1,0 +1,19 @@
+<autocannon1 volume="5">weapons/bp_autocannon_1.wav</autocannon1>
+<autocannon2 volume="5">weapons/bp_autocannon_1b.wav</autocannon2>
+<autocannon3 volume="5">weapons/bp_autocannon_1c.wav</autocannon3>
+<autocannonLBX1 volume="6">weapons/bp_autocannon_LBX1.ogg</autocannonLBX1>
+<autocannonLBX2 volume="6">weapons/bp_autocannon_LBX2.ogg</autocannonLBX2>
+<eb_halo_gauss_fire1 volume="3">weapons/eb_halo_gauss_fire1.ogg</eb_halo_gauss_fire1>
+<eb_halo_gauss_fire2 volume="3">weapons/eb_halo_gauss_fire2.ogg</eb_halo_gauss_fire2>
+<eb_halo_gauss_fire3 volume="3">weapons/eb_halo_gauss_fire3.ogg</eb_halo_gauss_fire3>
+<eb_halo_gauss_fire4 volume="3">weapons/eb_halo_gauss_fire4.ogg</eb_halo_gauss_fire4>
+<eb_mw_gauss_fire volume="3">weapons/eb_halo_gauss_fire.ogg</eb_mw_gauss_fire>
+<eb_machinegun_fire1 volume="5">weapons/eb_machinegun_fire1.wav</eb_machinegun_fire1>
+<eb_machinegun_fire2 volume="5">weapons/eb_machinegun_fire2.wav</eb_machinegun_fire2>
+<eb_machinegun_fire_heavy volume="5">weapons/eb_machinegun_fire_heavy.wav</eb_machinegun_fire_heavy>
+
+<mgHitShield1 volume="10">explosions/eb_mg_hit_shield_1.ogg</mgHitShield1>
+<mgHitShield2 volume="10">explosions/eb_mg_hit_shield_2.ogg</mgHitShield2>
+
+<mgMiss1 volume="10">weapons/eb_machinegun_miss1.ogg</mgMiss1>
+<mgMiss2 volume="10">weapons/eb_machinegun_miss2.ogg</mgMiss2>

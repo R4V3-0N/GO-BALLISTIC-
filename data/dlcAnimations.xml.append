@@ -1,0 +1,92 @@
+<animSheet name="eb_autocannon_lbx_1" w="112" h="60" fw="16" fh="60">weapons/eb_autocannon_lbx_1_strip8.png</animSheet>
+<weaponAnim name="eb_autocannon_lbx_1">
+	<sheet>eb_autocannon_lbx_1</sheet>
+	<desc length="7" x="0" y="0"/>
+	<chargedFrame>0</chargedFrame>
+	<fireFrame>3</fireFrame>
+	<firePoint  x="10" y="12"/>
+	<mountPoint x="3" y="44"/>
+</weaponAnim>
+
+<animSheet name="eb_autocannon_lbx_2" w="140" h="60" fw="20" fh="60">weapons/eb_autocannon_lbx_2_strip8.png</animSheet> 
+<weaponAnim name="eb_autocannon_lbx_2">
+	<sheet>eb_autocannon_lbx_2</sheet>
+	<desc length="7" x="0" y="0"/>
+	<chargedFrame>0</chargedFrame>
+	<fireFrame>3</fireFrame>
+	<firePoint  x="12" y="6"/>
+	<mountPoint x="3" y="44"/>
+</weaponAnim>
+
+<animSheet name="eb_autocannon_lbx_3" w="120" h="80" fw="20" fh="80">weapons/eb_autocannon_lbx_3_strip7.png</animSheet> 
+<weaponAnim name="eb_autocannon_lbx_3">
+	<sheet>eb_autocannon_lbx_3</sheet>
+	<desc length="6" x="0" y="0"/>
+	<chargedFrame>0</chargedFrame>
+	<fireFrame>3</fireFrame>
+	<firePoint  x="12" y="14"/>
+	<mountPoint x="3" y="63"/>
+</weaponAnim>
+
+<animSheet name="eb_autocannon_rotary_1" w="240" h="60" fw="24" fh="60">weapons/eb_autocannon_rotary_1_strip10.png</animSheet>       <!--rotary autocannons-->
+<weaponAnim name="eb_autocannon_rotary_1">
+	<sheet>eb_autocannon_rotary_1</sheet>
+	<desc length="10" x="0" y="0"/>
+	<chargedFrame>0</chargedFrame>
+	<fireFrame>1</fireFrame>
+	<firePoint  x="10" y="10"/>
+	<mountPoint x="2" y="44"/>
+</weaponAnim>
+
+<animSheet name="eb_autocannon_rotary_2" w="240" h="60" fw="24" fh="60">weapons/eb_autocannon_rotary_2_strip10.png</animSheet>
+<weaponAnim name="eb_autocannon_rotary_2">
+	<sheet>eb_autocannon_rotary_2</sheet>
+	<desc length="10" x="0" y="0"/>
+	<chargedFrame>0</chargedFrame>
+	<fireFrame>1</fireFrame>
+	<firePoint  x="10" y="8"/>
+	<mountPoint x="2" y="44"/>
+</weaponAnim>
+
+<animSheet name="eb_coil_gun_1" w="192" h="131" fw="24" fh="131">weapons/eb_coil_gun_1_strip8.png</animSheet>
+<animSheet name="eb_coil_gun_2" w="192" h="131" fw="24" fh="131">weapons/eb_coil_gun_2_strip8.png</animSheet>
+<animSheet name="eb_coil_gun_3" w="200" h="133" fw="25" fh="131">weapons/eb_coil_gun_3_strip8.png</animSheet>
+
+<weaponAnim name="eb_coil_gun_1">
+	<sheet>eb_coil_gun_1</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="14" y="31"/>
+	<mountPoint x="3" y="99"/>
+	<chargeImage>weapons/eb_coil_gun_1_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="eb_coil_gun_2">
+	<sheet>eb_coil_gun_2</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="15" y="30"/>
+	<mountPoint x="3" y="99"/>
+	<chargeImage>weapons/eb_coil_gun_2_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="eb_coil_gun_3">
+	<sheet>eb_coil_gun_3</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="15" y="29"/>
+	<mountPoint x="3" y="96"/>
+	<chargeImage>weapons/eb_coil_gun_3_glow.png</chargeImage>
+</weaponAnim>
+
+<!-- ACTUAL PROJECTILES -->
+<animSheet name="eb_coil_shot" w="160" h="16" fw="40" fh="16">weapons/eb_gauss_shot_strip4.png</animSheet>
+
+<anim name="eb_coil_shot">
+	<sheet>eb_gauss_shot</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>

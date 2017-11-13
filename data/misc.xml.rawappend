@@ -1,0 +1,9 @@
+<text name="tip_autocannon">Tip: Each autocannon shot will be blocked by a single shield bubble, regardless of damage.</text>
+<text name="tip_autocannon_light">Tip: Light autocannon rounds have no effect when hitting the enemy shield bubble.</text>
+<text name="tip_machinegun">Tip: Machineguns fire very quickly and cause only crew damage. These weapons have no effect on the enemy shield, systems or hull.</text>
+<text name="tip_gauss">Tip: Gauss weapons pierce one or more layers of shields. Additionally, gauss weapons are highly ranged, allowing occasional surprise attacks against enemies.</text>
+<text name="tip_chain_autocannon">Tip: Rotary autocannons decrease their cooldown every time they fire.</text>
+<text name="tip_autocannon_lbx">Tip: LB-X autocannons target an area instead of a single room. This loss of accuracy means more firepower and speed than their standard autocannon counterparts.</text>
+<text name="tip_coil_gun">Tip: Coil guns pierce a single layer of shields. They fire more quickly than their gauss counterparts, at the expense of reduced accuracy.</text>
+<text name="tip_rail">Tip: Railguns pierce two layers of shields. Additionally, gauss weapons are highly ranged, allowing occasional surprise attacks against enemies.</text>
+<text name="tip_ap_gauss">Tip: Antipersonnel gauss weapons can pierce shields, cause breaches and harm enemy crew. These weapons have no effect on the enemy shield, systems or hull.</text>

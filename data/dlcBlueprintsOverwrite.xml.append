@@ -1,0 +1,64 @@
+<blueprintList name="OVERRIDE_WEAPONS_FED"> 
+	<name>MISSILES_1</name>
+	<name>MISSILES_2</name>
+	<name>MISSILES_3</name>
+	<name>MISSILES_BREACH</name>
+	<name>BEAM_1</name>
+	<name>BEAM_2</name>
+	<name>BOMB_1</name>
+	
+	<name>EB_AUTOCANNON_1</name>
+	<name>EB_AUTOCANNON_2</name>
+	<name>EB_AUTOCANNON_3</name>
+	<name>EB_AUTOCANNON_ULTRA_1</name>
+	<name>EB_AUTOCANNON_ULTRA_2</name>
+	<name>EB_AUTOCANNON_ULTRA_3</name>
+	
+	<name>SHOTGUN</name>
+	<name>LASER_CHAINGUN_2</name>
+	<name>ION_CHARGEGUN</name>
+	<name>ION_STUN</name>
+	
+	<name>EB_AUTOCANNON_ROTARY_1</name>
+	<name>EB_AUTOCANNON_ROTARY_2</name>
+	<name>EB_AUTOCANNON_LBX_1</name>
+	<name>EB_AUTOCANNON_LBX_2</name>
+	<name>EB_AUTOCANNON_LBX_3</name>
+</blueprintList>
+
+
+<blueprintList name="OVERRIDE_DRONES_STANDARD">
+	<name>COMBAT_1</name>
+	<name>COMBAT_2</name>
+	<name>COMBAT_BEAM</name>	
+	<name>DEFENSE_1</name>
+	<name>DEFENSE_2_ENEMY</name>
+	<name>REPAIR</name>
+	<name>BATTLE</name>
+	<name>BOARDER</name>
+	
+	<name>EB_AUTOCANNON_1_DRONE</name>
+	<name>EB_AUTOCANNON_2_DRONE</name>
+	<name>EB_AUTOCANNON_3_DRONE</name>
+	<name>EB_AUTOCANNON_4_DRONE</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_1A</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_1B</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_1C</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_1D</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_2A</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_2B</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_2C</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_2D</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_3A</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_3B</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_3C</name>
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_3D</name>
+	
+	<name>BOARDER_ION</name>
+	<name>DRONE_SHIELD</name>
+	<name>ANTI_DRONE</name>
+	<name>COMBAT_BEAM_2</name>
+	<name>COMBAT_FIRE</name>
+
+	<name>EB_DRONE_DEFENSE_AUTOCANNON_LBX_1</name>
+</blueprintList>

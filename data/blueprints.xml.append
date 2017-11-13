@@ -1,0 +1,1367 @@
+<!--------------
+	AUTOCANNONS
+ -------------->
+
+<!--weapon first created by whalecancer. I edited and altered the weapons both coding and art wise. Some changes significant.-->
+<!--This weapons will be the bulk of the Federation along with there missile heavy use with ocasional use of laser weapons, this is just a cheap weapon to get your hands on.-->
+
+<weaponBlueprint name="EB_AUTOCANNON_1">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon</tip>
+	<title>Autocannon Mark I</title>
+	<short>AC I</short>
+	<desc>Autocannons fire a ballistic round at the target for 1 damage. It isn't the most high tech weapon in the universe, but it is one of the cheapest and gets the job done.</desc>
+	<tooltip>One shot, One damage per shot. Slow cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>12</cooldown>
+	<power>1</power>
+	<cost>20</cost>
+	<bp>2</bp>
+	<rarity>3</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_2">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon</tip>
+	<title>Autocannon Mark II</title>
+	<short>AC II</short>
+	<desc>This autocannon fires ballistic rounds at the target faster than the mark I.</desc>
+	<tooltip>Only one shot, one damage per shot. Average cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>8</cooldown>
+	<power>2</power>
+	<cost>35</cost>
+	<bp>4</bp>
+	<rarity>4</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_2</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_3">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon</tip>
+	<title>Autocannon Mark III</title>
+	<short>AC III</short>
+	<desc>Autocannons fire a ballistic round at the target dealing 1 damage. This version reloads faster than the mark II.</desc>
+	<tooltip>Only one shot, one damage per shot. Fast cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>6</cooldown>
+	<power>3</power>
+	<cost>45</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_3</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_ULTRA_1">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon</tip>
+	<title>Ultra Autocannon Mk. I</title>
+	<short>UAC I</short>
+	<desc>Ultra Autocannons fire two ballistic rounds at the target dealing 1 damage each. It's higher tech then regular autocannons but isn't the best weapon in the universe.</desc>
+	<tooltip>Only one shot, one damage per shot. Slow cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>2</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>2</breachChance>
+	<cooldown>12</cooldown>
+	<power>1</power>
+	<cost>45</cost>
+	<bp>2</bp>
+	<rarity>5</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_ultra_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_ULTRA_2">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon</tip>
+	<title>Ultra Autocannon Mk. II</title>
+	<short>UAC II</short>
+	<desc>This Ultra Autocannon fires 2 shells doing 1 damage each and reloads faster than the mark I.</desc>
+	<tooltip>Only one shot, one damage per shot. Average cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>2</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>2</breachChance>
+	<cooldown>8</cooldown>
+	<power>2</power>
+	<cost>70</cost>
+	<bp>4</bp>
+	<rarity>5</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_ultra_2</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_ULTRA_3">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon</tip>
+	<title>Ultra Autocannon Mk. III</title>
+	<short>UAC III</short>
+	<desc>This Ultra Autocannon fires 2 shells doing 1 damage each and reloads faster than the mark II.</desc>
+	<tooltip>Only one shot, one damage per shot. Fast cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>2</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>2</breachChance>
+	<cooldown>6</cooldown>
+	<power>3</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_ultra_3</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_LIGHT_1">
+	<type>LASER</type>
+	<flavorType>Autocannon</flavorType>
+	<tip>tip_autocannon_light</tip>
+	<title>Light Autocannon Mark I</title>
+	<short>LAC I</short>
+	<desc>Light Autocannons fire a ballistic round at the target and cause 1 system damage. Fires slightly faster then the Autocannon Mk. I and has a higher velocity round.</desc>
+	<tooltip>One shot, One system damage per shot.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>2</fireChance>
+	<breachChance>2</breachChance>
+	<cooldown>9</cooldown>
+	<power>1</power>
+	<cost>10</cost>
+	<bp>2</bp>
+	<speed>75</speed>
+	<rarity>5</rarity>
+	<image>eb_autocannon_light_shot</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_light_1</weaponArt> 
+</weaponBlueprint>
+
+<!--------------
+	MACHINE GUNS
+ -------------->
+
+<weaponBlueprint name="EB_MACHINEGUN_1">
+	<type>LASER</type>
+	<flavorType>Machinegun</flavorType>
+	<tip>tip_machinegun</tip>
+	<title>Machinegun Mk. I</title>
+	<short>MG I</short>
+	<desc>A Machinegun that fires every 4 seconds and deals minor damage to personel on the enemy ship. Can't harm the enemy ship in any other way.</desc>
+	<tooltip>Fast cooldown. Does 15 personel damage per shot</tooltip>
+	<damage>0</damage>
+	<persDamage>1</persDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>3</cooldown>
+	<power>0</power>
+	<cost>4</cost>
+	<bp>7</bp>
+	<rarity>2</rarity>
+	<image>eb_machinegun_shot</image>
+	<launchSounds>
+		<sound>eb_machinegun_fire1</sound>
+		<sound>eb_machinegun_fire2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_machinegun_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_MACHINEGUN_2">
+	<type>LASER</type>
+	<flavorType>Machinegun</flavorType>
+	<tip>tip_machinegun</tip>
+	<title>Machinegun Mk. II</title>
+	<short>MG II</short>
+	<desc>A Machinegun that fires every 3 seconds and deals minor damage to personel on the enemy ship. Can't harm the enemy ship in any other way.</desc>
+	<tooltip>Fast cooldown. Does 15 personel damage per shot</tooltip>
+	<damage>0</damage>
+	<persDamage>1</persDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>3</cooldown>
+	<power>0</power>
+	<cost>10</cost>
+	<bp>7</bp>
+	<rarity>4</rarity>
+	<image>eb_machinegun_shot</image>
+	<launchSounds>
+		<sound>eb_machinegun_fire1</sound>
+		<sound>eb_machinegun_fire2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_machinegun_2</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_MACHINEGUN_HEAVY_1">
+	<type>LASER</type>
+	<flavorType>Machinegun</flavorType>
+	<tip>tip_machinegun</tip>
+	<title>Heavy Machinegun Mk. I</title>
+	<short>HMG I</short>
+	<desc>A Heavy Machinegun that fires every 4 seconds and deals small damage to personel on the enemy ship. Can't harm the enemy ship in any other way.</desc>
+	<tooltip>Fast cooldown. Does 30 personel damage per shot</tooltip>
+	<damage>0</damage>
+	<persDamage>1</persDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>4</cooldown>
+	<power>1</power>
+	<cost>8</cost>
+	<bp>7</bp>
+	<rarity>3</rarity>
+	<image>eb_machinegun_shot</image>
+	<launchSounds>
+		<sound>eb_machinegun_fire_heavy</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_machinegun_heavy_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_MACHINEGUN_HEAVY_2">
+	<type>LASER</type>
+	<flavorType>Machinegun</flavorType>
+	<tip>tip_machinegun</tip>
+	<title>Heavy Machinegun Mk. II</title>
+	<short>HMG II</short>
+	<desc>A Heavy Machinegun that fires every 3 seconds and deals small damage to personel on the enemy ship. Can't harm the enemy ship in any other way.</desc>
+	<tooltip>Fast cooldown. Does 30 personel damage per shot</tooltip>
+	<damage>0</damage>
+	<persDamage>1</persDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>3</cooldown>
+	<power>1</power>
+	<cost>12</cost>
+	<bp>7</bp>
+	<rarity>4</rarity>
+	<image>eb_machinegun_shot</image>
+	<launchSounds>
+		<sound>eb_machinegun_fire_heavy</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_machinegun_heavy_2</weaponArt> 
+</weaponBlueprint>
+
+
+
+<!--------------
+ 	Gauss rifles
+ -------------->
+
+<weaponBlueprint name="EB_GAUSS_RIFLE_1">
+	<type>LASER</type>
+	<flavorType>Gauss</flavorType>
+	<tip>tip_gauss</tip>
+	<title>Gauss Rifle I</title>
+	<short>Gauss I</short>
+	<desc>The Gauss rifle is a projectile accelerator using magnets in a linear motion to fire high velocity projectiles, and is capable of reaching ranges far beyond that of most other ballistic weapons.</desc>
+	<tooltip>Fires 1 high velocity shot that pierces 1 shield. Medium chance of breaching.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>6</breachChance>
+	<cooldown>13</cooldown>
+	<power>2</power>
+	<cost>68</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<speed>130</speed>
+	<image>eb_gauss_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_gauss_rifle_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_GAUSS_RIFLE_2">
+	<type>LASER</type>
+	<flavorType>Gauss</flavorType>
+	<tip>tip_gauss</tip>
+	<title>Gauss Rifle II</title>
+	<short>Gauss II</short>
+	<desc>The Gauss Rifle Mk. II is an improvement upon the earlier design. It uses stronger electromagnets delivering a higher velocity projectile than its predecessor.</desc>
+	<tooltip>Fires 1 high velocity shot that pierces 1 shield.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>7</breachChance>
+	<cooldown>14</cooldown>
+	<power>3</power>
+	<cost>80</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<speed>140</speed>
+	<image>eb_gauss_shot_strip4</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_gauss_rifle_2</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_GAUSS_RIFLE_3">
+	<type>LASER</type>
+	<flavorType>Gauss</flavorType>
+	<tip>tip_gauss</tip>
+	<title>Gauss Rifle III</title>
+	<short>Gauss III</short>
+	<desc>The Gauss rifle Mk. III delivers a more powerful projectile. </desc>
+	<tooltip>Fires 1 high velocity shot that deals 2. Pierces 1 shield.</tooltip>
+	<damage>2</damage>
+	<shots>1</shots>
+	<stun>4</stun>
+	<sp>3</sp>
+	<fireChance>0</fireChance>
+	<breachChance>8</breachChance>
+	<cooldown>15</cooldown>
+	<power>4</power>
+	<cost>111</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<speed>150</speed>
+	<image>eb_gauss_shot_strip4</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+		<sound>eb_halo_gauss_fire4</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_gauss_rifle_3</weaponArt> 
+</weaponBlueprint>
+
+
+<weaponBlueprint name="EB_ANTIPERSONELL_GAUSS_RIFLE_1">
+	<type>LASER</type>
+	<flavorType>Antipersonnel Gauss</flavorType>
+	<tip>tip_ap_gauss</tip>
+	<title>Antipersonnel Gauss</title>
+	<short>AP Gauss I</short>
+	<desc>High-energy anti-personnel gauss rifle.</desc>
+	<tooltip>Fires a single shot that damage crew. Pierces 3 shield but cannot deplete shields. Low chance of breaching.</tooltip>
+	<persDamage>1</persDamage>
+	<stun>2</stun>
+	<damage>0</damage>
+	<shots>1</shots>
+	<sp>3</sp>
+	<fireChance>0</fireChance>
+	<breachChance>2</breachChance>
+	<cooldown>14</cooldown>
+	<power>1</power>
+	<cost>45</cost>
+	<bp>7</bp>
+	<rarity>4</rarity>
+	<speed>120</speed>
+	<image>eb_ap_gauss_shot_strip4</image>
+	<launchSounds>
+		<sound>eb_machinegun_fire1</sound>
+		<sound>eb_machinegun_fire2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_ap_gauss_rifle_1</weaponArt> 
+</weaponBlueprint>
+
+
+
+<!--------------
+ 	Rail Guns
+ -------------->
+<weaponBlueprint name="EB_RAILGUN_1">
+	<type>LASER</type>
+	<flavorType>Rail</flavorType>
+	<tip>tip_rail</tip>
+	<title>Projectile Railgun I</title>
+	<short>Railgun I</short>
+	<desc>The Railgun fires devestating long range attacks.</desc>
+	<tooltip>Fires 1 high velocity shot that pierces 1 shield. Medium chance of breaching.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>2</sp>
+	<stun>2</stun>
+	<fireChance>0</fireChance>
+	<breachChance>6</breachChance>
+	<cooldown>20</cooldown>
+	<power>2</power>
+	<cost>90</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<speed>150</speed>
+	<image>eb_rail_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_railgun_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_RAILGUN_2">
+	<type>LASER</type>
+	<flavorType>Rail</flavorType>
+	<tip>tip_rail</tip>
+	<title>Projectile Railgun II</title>
+	<short>Railgun II</short>
+	<desc>The Railgun Mk. II is a long ranged weapon with higher firepower over it's previous counterpart.</desc>
+	<tooltip>Fires a single high velocity shot that pierces 1 shield.</tooltip>
+	<damage>2</damage>
+	<stun>4</stun>
+	<shots>1</shots>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>7</breachChance>
+	<cooldown>25</cooldown>
+	<power>3</power>
+	<cost>110</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<speed>150</speed>
+	<image>eb_rail_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_railgun_2</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_RAILGUN_3">
+	<type>LASER</type>
+	<flavorType>Rail</flavorType>
+	<tip>tip_rail</tip>
+	<title>Projectile Railgun III</title>
+	<short>Rail III</short>
+	<desc>The Railgun Mk. III delivers a devestating anti-ship shot that devestates enemy cruisers.</desc>
+	<tooltip>Fires 1 high velocity shot that deals 2. Pierces 1 shield.</tooltip>
+	<damage>3</damage>
+	<shots>1</shots>
+	<sp>2</sp>
+	<stun>6</stun>
+	<fireChance>0</fireChance>
+	<breachChance>9</breachChance>
+	<cooldown>30</cooldown>
+	<power>4</power>
+	<cost>130</cost>
+	<bp>7</bp>
+	<rarity>5</rarity>
+	<speed>150</speed>
+	<image>eb_rail_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+		<sound>eb_halo_gauss_fire4</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_railgun_3</weaponArt> 
+</weaponBlueprint>
+
+
+
+
+<!--------------
+	AUTOCANNON DRONES
+ -------------->
+<droneBlueprint name="EB_AUTOCANNON_4_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>AC Combat Drone Mark IV</title>
+	<short>AC Drone IV</short>
+	<desc>Moves faster than the mark III. It is slower than the regular antiship combat mark 2 but it is more readily available.</desc>
+	<power>4</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>19</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 2 is 20-->
+	<cost>70</cost>
+	<bp>5</bp>
+	<droneImage>eb_autocannon_4_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>5</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<droneBlueprint name="EB_AUTOCANNON_3_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>AC Combat Drone Mark III</title>
+	<short>AC Drone III</short>
+	<desc>Moves faster than the mark II. Faster than the laser combat drone mark I, but slower than the mark II.</desc>
+	<power>3</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>16</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 2 is 20-->
+	<cost>55</cost>
+	<bp>4</bp>
+	<droneImage>eb_autocannon_3_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>5</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<droneBlueprint name="EB_AUTOCANNON_2_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>AC Combat Drone Mark II</title>
+	<short>AC Drone II</short>
+	<desc>Moves faster than the mark I. However it is slower than regular anti ship drones that are equal to this drone's energy requirements.</desc>
+	<power>2</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>13</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 1 is 15-->
+	<cost>38</cost>
+	<bp>3</bp>
+	<droneImage>eb_autocannon_2_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>4</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<droneBlueprint name="EB_AUTOCANNON_1_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>AC Combat Drone Mark I</title>
+	<short>AC Drone I</short>
+	<desc>This drone still uses outdated ballistics and moves slower. However it requires only 1 power.</desc>
+	<power>1</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>10</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 1 is 15-->
+	<cost>25</cost>
+	<bp>3</bp>
+	<droneImage>eb_autocannon_1_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>3</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="EB_DRONE_AUTOCANNON_1">
+	<type>LASER</type>
+	<title>Your shouldn't see this</title>
+	<short>You shouldn't see this</short>
+	<desc>You shouldn't see this</desc>
+	<tooltip>One shot, One damage per shot. Slow cooldown.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>1</breachChance>
+	<cooldown>12</cooldown>
+	<power>1</power>
+	<cost>20</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>eb_autocannon_projectile_1</image>
+	<launchSounds>
+		<sound>autocannon1</sound>
+		<sound>autocannon2</sound>
+		<sound>autocannon3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_autocannon_1</weaponArt> 
+</weaponBlueprint>
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark I</title>
+	<short>AC Def.I</short>
+	<desc>Shoots down incoming asteroids. It can shoot down incoming missiles, but less reliably.</desc>
+	<power>1</power>
+	<cooldown>2000</cooldown> <!--- x2 of defense drone 1 -->
+	<dodge>0</dodge>
+	<speed>2</speed> <!--- Superficial change.. just makes it fly faster -->
+	<cost>21</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_1</droneImage>
+	<!---- WEAPON INFO --->
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<!----- -->
+	<rarity>3</rarity>
+</droneBlueprint>
+
+<!--<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1B">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark I</title>
+	<short>AC Def.I</short>
+	<desc>Shoots down incoming asteroids. It can shoot down incoming missiles, but less reliably.</desc>
+	<power>1</power>
+	<cooldown>1900</cooldown>
+	<dodge>0</dodge>
+	<speed>2</speed>
+	<cost>21</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_1</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>0</rarity>
+</droneBlueprint>
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1C">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark I</title>
+	<short>AC Def.I</short>
+	<desc>Shoots down incoming asteroids. It can shoot down incoming missiles, but less reliably.</desc>
+	<power>1</power>
+	<cooldown>1800</cooldown>
+	<dodge>0</dodge>
+	<speed>4</speed>
+	<cost>22</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_1</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>2</rarity>
+</droneBlueprint>
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_1D">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark I</title>
+	<short>AC Def.I</short>
+	<desc>Shoots down incoming asteroids. It can shoot down incoming missiles, but less reliably.</desc>
+	<power>1</power>
+	<cooldown>1500</cooldown>
+	<dodge>0</dodge>
+	<speed>3</speed>
+	<cost>23</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_1</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>3</rarity>
+</droneBlueprint>	-->
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2A">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark II</title>
+	<short>AC Def. II</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark I.</desc>
+	<power>2</power>
+	<cooldown>1500</cooldown> <!--- x1.5 of defense drone 1 -->
+	<dodge>1</dodge>
+	<speed>2</speed> <!--- Superficial change.. just makes it fly faster -->
+	<cost>25</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_2</droneImage>
+	<!---- WEAPON INFO --->
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<!----- -->
+	<rarity>4</rarity>
+</droneBlueprint>
+
+<!--<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2B">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark II</title>
+	<short>AC Def. II</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark I.</desc>
+	<power>2</power>
+	<cooldown>1400</cooldown>
+	<dodge>1</dodge>
+	<speed>4</speed>
+	<cost>30</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_2</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>2</rarity>
+</droneBlueprint>
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2C">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark II</title>
+	<short>AC Def.II</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark I.</desc>
+	<power>2</power>
+	<cooldown>1300</cooldown>
+	<dodge>1</dodge>
+	<speed>3</speed>
+	<cost>30</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_2</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>3</rarity>
+</droneBlueprint>
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_2D">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark II</title>
+	<short>AC Def.II</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark I.</desc>
+	<power>2</power>
+	<cooldown>1200</cooldown>
+	<dodge>1</dodge>
+	<speed>2</speed>
+	<cost>41</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_2</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>5</rarity>
+</droneBlueprint>	-->
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3A">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark III</title>
+	<short>AC Def. III</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark II.</desc>
+	<power>3</power>
+	<cooldown>1200</cooldown> <!--- x1.2 of defense drone 1 -->
+	<dodge>2</dodge>
+	<speed>4</speed> <!--- Superficial change.. just makes it fly faster -->
+	<cost>35</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_3</droneImage>
+	<!---- WEAPON INFO --->
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<!----- -->
+	<rarity>5</rarity>
+</droneBlueprint>
+
+<!--<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3B">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark III</title>
+	<short>AC Def. III</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark II.</desc>
+	<power>3</power>
+	<cooldown>1100</cooldown>
+	<dodge>2</dodge>
+	<speed>5</speed>
+	<cost>30</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_3</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>4</rarity>
+</droneBlueprint>
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3C">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark III</title>
+	<short>AC Def. III</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark II.</desc>
+	<power>3</power>
+	<cooldown>900</cooldown>
+	<dodge>2</dodge>
+	<speed>5</speed>
+	<cost>40</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_3</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>5</rarity>
+</droneBlueprint>
+
+<droneBlueprint name="EB_DRONE_DEFENSE_AUTOCANNON_3D">
+	<type>DEFENSE</type>
+	<level>1</level>
+	<tip>tip_defense</tip>
+	<title>AC Defense Drone Mark III</title>
+	<short>AC Def. III</short>
+	<desc>Shoots down incoming asteroids and missiles more effectively than the mark II.</desc>
+	<power>3</power>
+	<cooldown>910</cooldown>
+	<dodge>0</dodge>
+	<speed>3</speed>
+	<cost>50</cost>
+	<bp>2</bp>
+	<droneImage>eb_drone_defense_autocannon_3</droneImage>
+	<weaponBlueprint>EB_DRONE_AUTOCANNON_1</weaponBlueprint>
+	<rarity>4</rarity>
+</droneBlueprint>	-->
+
+<!--------------
+	RAILGUN, GAUSS RIFLE, COIlGUN DRONES
+ -------------->
+ 
+ 
+ <weaponBlueprint name="EB_DRONE_GAUSS_1">
+	<type>MISSILES</type>
+	<title>Drone Gauss</title>
+	<short>Drone Gauss</short>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>7</breachChance>
+	<rarity>0</rarity>
+	<speed>130</speed>
+	<image>eb_gauss_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>missiles_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_DRONE_GAUSS_2">
+	<type>MISSILES</type>
+	<title>Drone Gauss</title>
+	<short>Drone Gauss</short>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>7</breachChance>
+	<rarity>0</rarity>
+	<speed>130</speed>
+	<image>eb_gauss_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>missiles_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_DRONE_RAIl_1">
+	<type>MISSILES</type>
+	<title>Drone Rail</title>
+	<short>Drone Rail</short>
+	<damage>2</damage>
+	<stun>4</stun>
+	<shots>1</shots>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>8</breachChance>
+	<rarity>0</rarity>
+	<speed>130</speed>
+	<image>eb_rail_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>missiles_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_DRONE_RAIl_2">
+	<type>MISSILES</type>
+	<title>Drone Rail</title>
+	<short>Drone Rail</short>
+	<damage>3</damage>
+	<stun>5</stun>
+	<shots>1</shots>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>9</breachChance>
+	<rarity>0</rarity>
+	<speed>130</speed>
+	<image>eb_rail_shot</image>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>missiles_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_AUTOCANNON_LBX_1">
+	<type>LASER</type>
+	<title>Heavy Missiles</title>
+	<short>Heavy Missiles</short>
+	<drone_targetable>2</drone_targetable>
+	<damage>2</damage>
+	<sysDamage>-1</sysDamage>
+	<persDamage>-1</persDamage>
+	<stun>3</stun>
+	<shots>1</shots>
+	<sp>5</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<rarity>0</rarity>
+	<speed>35</speed>
+	<image>de_missile_drone_anime_slow</image>
+	<explosion>ba_explosion_anime</explosion>
+	<launchSounds>
+		<sound>engine_missile_swarm_launch</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>explosion_anime</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>missiles_1</weaponArt> 
+</weaponBlueprint>
+
+<droneBlueprint name="EB_GAUSS_1_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>Anti Ship Gauss drone I</title>
+	<short>Gauss I</short>
+	<desc>Slow drone that fires shield piercing shots at the enemy ship</desc>
+	<power>3</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>10</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 2 is 20-->
+	<cost>90</cost>
+	<bp>5</bp>
+	<droneImage>eb_gauss_1_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_GAUSS_1</weaponBlueprint>
+	<rarity>5</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+ 
+ <droneBlueprint name="EB_GAUSS_2_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>Anti Ship Gauss drone II</title>
+	<short>Gauss II</short>
+	<desc>Slow drone that fires at the enemy ship and pierces two shields</desc>
+	<power>4</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>10</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 2 is 20-->
+	<cost>100</cost>
+	<bp>5</bp>
+	<droneImage>eb_gauss_2_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_GAUSS_2</weaponBlueprint>
+	<rarity>5</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<droneBlueprint name="EB_RAIL_1_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>Anti Ship Rail drone I</title>
+	<short>Rail I</short>
+	<desc>Slow drone that deals heavy firepower upon ships, piercing 2 shields and dealing 2 damage.</desc>
+	<power>3</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>5</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 2 is 20-->
+	<cost>90</cost>
+	<bp>5</bp>
+	<droneImage>eb_rail_1_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_RAIL_1</weaponBlueprint>
+	<rarity>5</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+ 
+ <droneBlueprint name="EB_RAIL_2_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>Anti Ship Rail drone II</title>
+	<short>Rail II</short>
+	<desc>Extremely slow drone that deals heavy firepower upon ships, piercing 2 shields and dealing 3 damage.</desc>
+	<power>4</power>
+	<cooldown>1000</cooldown> <!--- Doesn't effect combat drone -->
+	<dodge>0</dodge>
+	<speed>3</speed> <!--- Change this to increase/decrease firing speed -->  <!-- Anti ship Combat drone mark 2 is 20-->
+	<cost>110</cost>
+	<bp>5</bp>
+	<droneImage>eb_rail_2_drone</droneImage>
+	<weaponBlueprint>EB_DRONE_GAUSS_2</weaponBlueprint>
+	<rarity>5</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="EB_MACHINEGUN_1_DRONE_WEAPON">
+	<type>LASER</type>
+	<title>Machinegun</title>
+	<short>Machinegun</short>
+	<drone_targetable>2</drone_targetable>
+	<damage>0</damage>
+	<sysDamage>0</sysDamage>
+	<persDamage>1</persDamage>
+	<stun>1</stun>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<rarity>0</rarity>
+	<speed>35</speed>
+	<image>eb_machinegun_shot</image>
+	<launchSounds>
+		<sound>eb_machinegun_fire1</sound>
+		<sound>eb_machinegun_fire2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_machinegun_1</weaponArt> 
+</weaponBlueprint>
+
+
+<droneBlueprint name="EB_MACHINEGUN_1_DRONE">
+	<type>COMBAT</type>
+	<tip>tip_combat</tip>
+	<title>Machine Gun Drone Mk I</title>
+	<short>MG I</short>
+	<desc>Quick drone that attacks enemy crew with high rate of fire.</desc>
+	<power>0</power>
+	<cooldown>1000</cooldown> <!-- Doesn't effect combat drone -->
+	<dodge>8</dodge>
+	<speed>35</speed> <!-- Change this to increase/decrease firing speed -->
+	<cost>10</cost>
+	<bp>3</bp>
+	<droneImage>eb_drone_mg</droneImage>
+	<weaponBlueprint>EB_MACHINEGUN_1_DRONE_WEAPON</weaponBlueprint>
+	<rarity>3</rarity>
+</droneBlueprint>

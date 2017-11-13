@@ -1,0 +1,124 @@
+<mod:findName type="event" name="DISTRESS_TRAPPED_MINER">
+	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+		<text>(Ranged Weapon) Try to shoot the ship out from a safe distance.</text>
+		<event load="DISTRESS_TRAPPED_MINER_SHOOT_RANGED"/>	
+	</mod-append:choice>
+</mod:findName>
+<eventList name="DISTRESS_TRAPPED_MINER_SHOOT_RANGED">
+	<event>
+		<text>You take a few careful shots but you expose a mineral patch in the rock that reacts violently with your weapon. You're far enough away from the resulting shockwave to avoid damage, but you find there is not much left of the ship.</text>
+		<autoReward level="LOW">scrap_only</autoReward>
+	</event>
+	<event>
+		<text>You fire a few volleys into the rock and it starts to shudder and break apart. Without shields the pirate ship takes a beating but eventually pulls free. They thank you for your assistance.</text>
+		<autoReward level="MED">standard</autoReward>
+	</event>
+</eventList>
+
+<mod:findName type="event" name="DISTRESS_SATELLITE_DEFENSE">
+	<mod:findLike type="choice">
+		<mod:findLike type="event">
+			<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+				<text>(Ranged Weapon) Fire on the defense system from a safe distance.</text>
+				<event load="SATELLITE_DEFENSE_SHOOT_RANGED"/>	
+			</mod-append:choice>
+		</mod:findLike>
+	</mod:findLike>
+</mod:findName>
+<eventList name="SATELLITE_DEFENSE_SHOOT_RANGED">
+	<event>
+		<text>You fire a few volleys from a distance and it is clear the defense system is no match for your weapons. However, the station does not seem happy with your 'solution'. You salvage what you can and jump before there is trouble.</text>
+		<autoReward level="LOW">standard</autoReward>
+	</event>
+	<event>
+		<text>You fire a few volleys but aren't able to penetrate the defense system's shields. Before you can try again, the station messages you: "We appreciate your 'help,' but we'll take it from here." You decide to leave them to it.</text>
+	</event>	
+</eventList>
+
+<mod:findName type="event" name="PIRATE_STATION_CROPS">
+	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+		<text>(Ranged Weapon) Shoot at the pirate from a distance.</text>
+		<event load="PIRATE_STATION_CROPS_SHOOT_RANGED"/>	
+	</mod-append:choice>
+</mod:findName>
+<eventList name="PIRATE_STATION_CROPS_SHOOT_RANGED">
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. "Cheeky bastard... You'll pay for that!" They pull away from the planet and move in to engage.</text>
+		<status type="loss" target="enemy" system="weapons" amount="1"/>
+		<ship hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. "Cheeky bastard... You'll pay for that!" They pull away from the planet and move in to engage.</text>
+		<status type="loss" target="enemy" system="shields" amount="1"/>
+		<ship hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. "Cheeky bastard... You'll pay for that!" They pull away from the planet and move in to engage.</text>
+		<status type="loss" target="enemy" system="engines" amount="1"/>
+		<ship hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. "Cheeky bastard... You'll pay for that!" They pull away from the planet and move in to engage.</text>
+		<status type="loss" target="enemy" system="pilot" amount="1"/>
+		<ship hostile="true"/>
+	</event>
+		<event>
+		<text>You fire your weapon at the pirate ship, but they activate their thrusters just in time to avoid it. "HA! Nice try!" They pull away from the planet and move in to engage.</text>
+		<ship hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and causes significant damage to their reactor. "Cheeky bastard... Fine, take this and leave us alone."</text>
+		<status type="loss" target="enemy" system="reactor" amount="4"/>
+		<choice>
+			<text>Let them go.</text>
+			<event>
+				<autoReward level="MED">stuff</autoReward>
+			</event>
+		</choice>
+		<choice>
+			<text>Their ship is disabled, this is the perfect chance to strike!</text>
+			<ship hostile="true"/>
+			<event/>
+		</choice>
+	</event>
+</eventList>
+
+<mod:findName type="event" name="PIRATE_CIVILIAN_BEACON">
+	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+		<text>(Ranged Weapon) Shoot at the pirate from a distance.</text>
+		<event load="PIRATE_CIVILIAN_BEACON_SHOOT_RANGED"/>	
+	</mod-append:choice>
+</mod:findName>
+<eventList name="PIRATE_CIVILIAN_BEACON_SHOOT_RANGED">
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="PIRATE_CIVILIAN" hostile="true"/>
+		<status type="loss" target="enemy" system="weapons" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="PIRATE_CIVILIAN" hostile="true"/>
+		<status type="loss" target="enemy" system="shields" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="PIRATE_CIVILIAN" hostile="true"/>
+		<status type="loss" target="enemy" system="engines" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="PIRATE_CIVILIAN" hostile="true"/>
+		<status type="loss" target="enemy" system="pilot" amount="1"/>
+	</event>
+		<event>
+		<text>You fire your weapon at the pirate ship, but they activate their thrusters just in time to avoid it. They move in to engage.</text>
+		<ship load="PIRATE_CIVILIAN" hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the pirate ship. It hits and causes significant damage to their reactor. Seems the pirate wasn't looking for a fight with someone who could fight back. They leave and you move to contact the civilian ship.</text>
+		<choice hiiden="true">
+			<text>Continue...</text>
+			<event load="SAVE_CIVILIAN_LIST"/>
+		</choice>
+	</event>
+</eventList>
