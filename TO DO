@@ -10,6 +10,7 @@
 --- FIXES ---
 
 - Update WEAPONS_RANGED list, include railguns (autoBlueprints.xml.append)
+- Fix railguns (description, distinguishing from gauss)
 
 
 --- FOR LATER ---
