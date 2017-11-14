@@ -13,6 +13,7 @@
 
 - Update WEAPONS_RANGED list, include railguns (autoBlueprints.xml.append)
 - Fix railguns (description, tip [under misc], distinguishing from gauss)
+- Test the events!
 
 
 --- FOR LATER ---
