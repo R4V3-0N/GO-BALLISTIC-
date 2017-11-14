@@ -116,7 +116,7 @@
 	</event>
 	<event>
 		<text>You fire your weapon at the pirate ship. It hits and causes significant damage to their reactor. Seems the pirate wasn't looking for a fight with someone who could hold their own. They leave and you move to contact the civilian ship.</text>
-		<choice hiiden="true">
+		<choice hidden="true">
 			<text>Continue...</text>
 			<event load="SAVE_CIVILIAN_LIST"/>
 		</choice>
