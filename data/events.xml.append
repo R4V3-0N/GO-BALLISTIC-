@@ -122,3 +122,44 @@
 		</choice>
 	</event>
 </eventList>
+
+<mod:findName type="event" name="REBEL_VS_FEDERATION">
+	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+		<text>(Ranged Weapon) Shoot at the Rebel ship from a distance.</text>
+		<event load="REBEL_VS_FEDERATION_SHOOT_RANGED"/>	
+	</mod-append:choice>
+</mod:findName>
+<eventList name="REBEL_VS_FEDERATION_SHOOT_RANGED">
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="REBEL_VS_FEDERATION" hostile="true"/>
+		<status type="loss" target="enemy" system="weapons" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="REBEL_VS_FEDERATION" hostile="true"/>
+		<status type="loss" target="enemy" system="shields" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="REBEL_VS_FEDERATION" hostile="true"/>
+		<status type="loss" target="enemy" system="engines" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="REBEL_VS_FEDERATION" hostile="true"/>
+		<status type="loss" target="enemy" system="pilot" amount="1"/>
+	</event>
+		<event>
+		<text>You fire your weapon at the Rebel ship, but they activate their thrusters just in time to avoid it. They move in to engage.</text>
+		<ship load="REBEL_VS_FEDERATION" hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. A direct hit beaches their main reactor, causing the ship explode. You move in to scrap the debris and contact the Federation vessel.</text>
+		<autoReward level="MED">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="REBEL_VS_FEDERATION_SAVED_LIST"/>
+		</choice>
+	</event>
+</eventList>
