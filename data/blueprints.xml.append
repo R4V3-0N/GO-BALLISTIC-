@@ -620,15 +620,15 @@
 	<short>Railgun I</short>
 	<desc>The Railgun fires devestating long range attacks.</desc>
 	<tooltip>Fires 1 high velocity shot that pierces 1 shield. Medium chance of breaching.</tooltip>
-	<damage>1</damage>
+	<damage>3</damage>
 	<shots>1</shots>
-	<sp>2</sp>
+	<sp>1</sp>
 	<stun>2</stun>
-	<fireChance>0</fireChance>
-	<breachChance>6</breachChance>
-	<cooldown>20</cooldown>
-	<power>2</power>
-	<cost>90</cost>
+	<fireChance>6</fireChance>
+	<breachChance>4</breachChance>
+	<cooldown>12</cooldown>
+	<power>1</power>
+	<cost>80</cost>
 	<bp>7</bp>
 	<rarity>5</rarity>
 	<speed>150</speed>
@@ -659,17 +659,17 @@
 	<tip>tip_rail</tip>
 	<title>Projectile Railgun II</title>
 	<short>Railgun II</short>
-	<desc>The Railgun Mk. II is a long ranged weapon with higher firepower over it's previous counterpart.</desc>
+	<desc>The Railgun Mk. II is a long ranged weapon with higher firepower than it's previous counterpart.</desc>
 	<tooltip>Fires a single high velocity shot that pierces 1 shield.</tooltip>
-	<damage>2</damage>
+	<damage>4</damage>
 	<stun>4</stun>
 	<shots>1</shots>
-	<sp>2</sp>
-	<fireChance>0</fireChance>
-	<breachChance>7</breachChance>
-	<cooldown>25</cooldown>
-	<power>3</power>
-	<cost>110</cost>
+	<sp>1</sp>
+	<fireChance>7</fireChance>
+	<breachChance>5</breachChance>
+	<cooldown>15</cooldown>
+	<power>2</power>
+	<cost>95</cost>
 	<bp>7</bp>
 	<rarity>5</rarity>
 	<speed>150</speed>
@@ -700,17 +700,17 @@
 	<tip>tip_rail</tip>
 	<title>Projectile Railgun III</title>
 	<short>Rail III</short>
-	<desc>The Railgun Mk. III delivers a devestating anti-ship shot that devestates enemy cruisers.</desc>
-	<tooltip>Fires 1 high velocity shot that deals 2. Pierces 1 shield.</tooltip>
-	<damage>3</damage>
+	<desc>The Railgun Mk. III delivers a devestating anti-ship shot pierces 1 shield.</desc>
+	<tooltip>Fires 1 devistating high velocity shot that deals 5 damage. Pierces 1 shield.</tooltip>
+	<damage>5</damage>
 	<shots>1</shots>
-	<sp>2</sp>
+	<sp>1</sp>
 	<stun>6</stun>
-	<fireChance>0</fireChance>
-	<breachChance>9</breachChance>
-	<cooldown>30</cooldown>
-	<power>4</power>
-	<cost>130</cost>
+	<fireChance>8</fireChance>
+	<breachChance>6</breachChance>
+	<cooldown>18</cooldown>
+	<power>3</power>
+	<cost>110</cost>
 	<bp>7</bp>
 	<rarity>5</rarity>
 	<speed>150</speed>
