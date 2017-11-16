@@ -634,9 +634,9 @@
 	<speed>150</speed>
 	<image>eb_rail_shot</image>
 	<launchSounds>
-		<sound>eb_halo_gauss_fire1</sound>
-		<sound>eb_halo_gauss_fire2</sound>
-		<sound>eb_halo_gauss_fire3</sound>
+		<sound>eb_halo_quake_rail1</sound>
+		<sound>eb_halo_quake_rail2</sound>
+		<sound>eb_halo_quake_rail3</sound>
 	</launchSounds>
 	<hitShipSounds>
 		<sound>hitHull2</sound>
@@ -675,9 +675,9 @@
 	<speed>150</speed>
 	<image>eb_rail_shot</image>
 	<launchSounds>
-		<sound>eb_halo_gauss_fire1</sound>
-		<sound>eb_halo_gauss_fire2</sound>
-		<sound>eb_halo_gauss_fire3</sound>
+		<sound>eb_halo_quake_rail1</sound>
+		<sound>eb_halo_quake_rail2</sound>
+		<sound>eb_halo_quake_rail3</sound>
 	</launchSounds>
 	<hitShipSounds>
 		<sound>hitHull2</sound>
@@ -716,10 +716,10 @@
 	<speed>150</speed>
 	<image>eb_rail_shot</image>
 	<launchSounds>
-		<sound>eb_halo_gauss_fire1</sound>
-		<sound>eb_halo_gauss_fire2</sound>
-		<sound>eb_halo_gauss_fire3</sound>
-		<sound>eb_halo_gauss_fire4</sound>
+		<sound>eb_halo_quake_rail1</sound>
+		<sound>eb_halo_quake_rail2</sound>
+		<sound>eb_halo_quake_rail3</sound>
+		<sound>eb_halo_quake_rail4</sound>
 	</launchSounds>
 	<hitShipSounds>
 		<sound>hitHull2</sound>
