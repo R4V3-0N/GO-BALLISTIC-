@@ -11,7 +11,6 @@
 
 --- FIXES ---
 
-- Update WEAPONS_RANGED list, include railguns (autoBlueprints.xml.append)
 - See if Biohazard063 will test the weapon balance
 - Test the events!
 
