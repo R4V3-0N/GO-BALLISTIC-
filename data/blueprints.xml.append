@@ -620,7 +620,7 @@
 	<short>Railgun I</short>
 	<desc>The Railgun fires devestating long range attacks.</desc>
 	<tooltip>Fires 1 high velocity shot that pierces 1 shield. Medium chance of breaching.</tooltip>
-	<damage>3</damage>
+	<damage>2</damage>
 	<shots>1</shots>
 	<sp>1</sp>
 	<stun>2</stun>
@@ -661,7 +661,7 @@
 	<short>Railgun II</short>
 	<desc>The Railgun Mk. II is a long ranged weapon with higher firepower than it's previous counterpart.</desc>
 	<tooltip>Fires a single high velocity shot that pierces 1 shield.</tooltip>
-	<damage>4</damage>
+	<damage>3</damage>
 	<stun>4</stun>
 	<shots>1</shots>
 	<sp>1</sp>
