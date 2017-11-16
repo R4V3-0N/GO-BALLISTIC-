@@ -624,7 +624,7 @@
 	<shots>1</shots>
 	<sp>1</sp>
 	<stun>2</stun>
-	<fireChance>6</fireChance>
+	<fireChance>1</fireChance>
 	<breachChance>4</breachChance>
 	<cooldown>12</cooldown>
 	<power>1</power>
@@ -665,7 +665,7 @@
 	<stun>4</stun>
 	<shots>1</shots>
 	<sp>1</sp>
-	<fireChance>7</fireChance>
+	<fireChance>2</fireChance>
 	<breachChance>5</breachChance>
 	<cooldown>15</cooldown>
 	<power>2</power>
@@ -706,7 +706,7 @@
 	<shots>1</shots>
 	<sp>1</sp>
 	<stun>6</stun>
-	<fireChance>8</fireChance>
+	<fireChance>3</fireChance>
 	<breachChance>6</breachChance>
 	<cooldown>18</cooldown>
 	<power>3</power>
