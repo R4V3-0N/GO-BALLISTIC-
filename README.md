@@ -12,8 +12,6 @@
 --- FIXES ---
 
 - Update WEAPONS_RANGED list, include railguns (autoBlueprints.xml.append)
-- Fix railguns (description, tip [under misc], distinguishing from gauss)
-  - Make plasma-based, add new shot animation
 - See if Biohazard063 will test the weapon balance
 - Test the events!
 
