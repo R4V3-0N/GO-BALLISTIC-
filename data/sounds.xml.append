@@ -7,6 +7,10 @@
 <eb_halo_gauss_fire2 volume="3">weapons/eb_halo_gauss_fire2.ogg</eb_halo_gauss_fire2>
 <eb_halo_gauss_fire3 volume="3">weapons/eb_halo_gauss_fire3.ogg</eb_halo_gauss_fire3>
 <eb_halo_gauss_fire4 volume="3">weapons/eb_halo_gauss_fire4.ogg</eb_halo_gauss_fire4>
+<eb_halo_quake_rail1 volume="3">weapons/eb_halo_quake_rail1.ogg</eb_halo_quake_rail1>
+<eb_halo_quake_rail2 volume="3">weapons/eb_halo_quake_rail2.ogg</eb_halo_quake_rail2>
+<eb_halo_quake_rail3 volume="3">weapons/eb_halo_quake_rail3.ogg</eb_halo_quake_rail3>
+<eb_halo_quake_rail4 volume="3">weapons/eb_halo_quake_rail4.ogg</eb_halo_quake_rail4>
 <eb_mw_gauss_fire volume="3">weapons/eb_halo_gauss_fire.ogg</eb_mw_gauss_fire>
 <eb_machinegun_fire1 volume="5">weapons/eb_machinegun_fire1.wav</eb_machinegun_fire1>
 <eb_machinegun_fire2 volume="5">weapons/eb_machinegun_fire2.wav</eb_machinegun_fire2>
