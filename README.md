@@ -20,3 +20,5 @@
 - Full CE compatability patch
   - CE sector-specific rarities
   - CE ranged weapon events
+
+--- TEST EDDIT ---
